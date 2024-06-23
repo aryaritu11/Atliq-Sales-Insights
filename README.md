@@ -44,7 +44,7 @@ and success criteria  of our project.
 #### Initial Dashboard
 
 ---
-<img src="C:\Users\ritua\OneDrive\Pictures\Screenshots" width="550" class="center">
+<img src="Final Report" width="550" class="center">
 
 #### Updated Dashboard
 
