@@ -44,7 +44,7 @@ and success criteria  of our project.
 #### Initial Dashboard
 
 ---
-<img src="Final Report" width="550" class="center">
+<img src="Initial Report" width="550" class="center">
 
 #### Updated Dashboard
 
